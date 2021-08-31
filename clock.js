@@ -15,7 +15,7 @@ class Clock {
 
         let period = (hours < 12) ? 'AM' : 'PM';
 
-        hours = (hours > 12) ? (12 - hours) : hours;
+        hours = (hours > 12) ? (hours - 12) : hours;
 
         this.wrapper.innerHTML = this.template
             .replace('hh', format(hours))
