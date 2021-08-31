@@ -3,7 +3,7 @@ h4, h5, h6 {
     margin: 0;
 }
 
-body {
+html, body {
     font-family: Futura, sans-serif;
   
     margin: 0;
