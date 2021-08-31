@@ -1,4 +1,4 @@
-# digital-clock
+# Digital clock
 ## Tutorial
 ### Create a new clock:
 ```javascript
