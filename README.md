@@ -25,7 +25,7 @@ clock.pause(delay);
 ```javascript
 clock.stop();
 ```
-## Example
+## [Example](https://temarych.github.io/digital-clock/)
 ```javascript
 let wrapper = document.getElementById('clock');
 let clock = new Clock({ 
